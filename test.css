@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+}
+
+nav{
+
+    height: 20vh;
+    width: 100%;
+    background-color: aquamarine;
+    justify-content: space-between;
+    align-items: center;
+}

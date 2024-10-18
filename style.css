@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+
+*{
+    margin:0px;
+}
+
+nav{
+
+    height: 20vh;
+    width: 100%;
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+div{
+    margin-left: 20px;
+}
+ul{
+
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    letter-spacing: 1px;
+}
