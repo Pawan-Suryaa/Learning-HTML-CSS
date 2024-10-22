@@ -1,0 +1,26 @@
+
+body{
+
+    background-color: aqua;
+}
+
+.head1  {
+    color: blue;
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: underline; /*   must use this property to use the further given properties*/
+    text-decoration-style: wavy;
+    text-decoration-color: black;
+}
+
+.para{
+    font-size:30px;
+    color: rgb(71, 32, 107);
+    text-decoration: underline;
+    text-decoration-color: rgb(201, 143, 57);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+    word-spacing: 40px;
+    letter-spacing: 10px;
+}
