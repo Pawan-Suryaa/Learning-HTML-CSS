@@ -11,6 +11,7 @@ body{
     text-decoration: underline; /*   must use this property to use the further given properties*/
     text-decoration-style: wavy;
     text-decoration-color: black;
+    text-align: center;
 }
 
 .para{
@@ -23,4 +24,10 @@ body{
 
     word-spacing: 40px;
     letter-spacing: 10px;
+
+    line-height: 100px;
+
+    font-weight: bold;
+
+    text-shadow: -8px -3px 5px goldenrod;
 }

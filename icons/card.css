@@ -1,0 +1,28 @@
+.div{
+    align-content: center;
+    width: 20%;
+    background-color: bisque;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 20px ;
+    margin-left: 40%;
+    margin-top: 7%;
+    font-size: large;
+    
+}
+
+.wclass{
+    margin-right: 3%;
+}
+
+.iclass{
+    margin-right: 3%;
+}
+
+.fclass{
+    margin-right: 3%;
+}
+
+.sclass{
+    margin-right: 3%;
+}
