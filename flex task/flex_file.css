@@ -1,0 +1,41 @@
+.main{
+
+    background-color: rgb(117, 42, 216);
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div1,.div2{
+
+    height: 200px;
+    width: 200px;
+    margin-top: 3%;
+}
+
+.div1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+
+.divA{
+    
+    height: 20px;
+    width: 200px;
+    font-size: 30px;
+}
+}
+
+.divB{
+    
+    height: 20px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.divC{
+    
+    height: 20px;
+    width: 200px;
+    margin-top: 5%;
+}

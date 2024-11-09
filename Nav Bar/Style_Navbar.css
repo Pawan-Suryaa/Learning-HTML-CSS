@@ -1,0 +1,16 @@
+.navbar{
+
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.nav,ul{                            /*we are calling child ul class without specifically making ul class*/
+
+    display: flex;
+    justify-content: space-around;
+    list-style: none;           /*to remove bullet pointers*/
+    gap: 30px;
+}

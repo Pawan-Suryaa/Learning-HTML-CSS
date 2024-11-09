@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.div1,.div2{
+
+    background-color: blue;
+    border: 2px solid;
+    height: 200px;
+    width: 200px;
+}
